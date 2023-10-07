@@ -1,0 +1,17 @@
+dominate==2.6.0
+imageio
+ipython
+lpips==0.1.3
+matplotlib
+numpy>=1.21
+opencv-python
+pandas
+Pillow
+scikit-image=0.16.2
+tensorboard
+tensorboardX
+tifffile==2020.9.3
+torch==1.0.0
+torchfile==0.1.0
+torchvision==0.2.1
+tqdm
