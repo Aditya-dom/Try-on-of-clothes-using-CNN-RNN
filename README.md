@@ -121,11 +121,11 @@ please always specific ```--frozen_flownet``` for inference.
 If you find this work is helpful, please consider starring :star2: this repo and citing us as
 ```
 @InProceedings{Cui_2021_ICCV,
-    author    = {Cui, Aiyu and McKee, Daniel and Lazebnik, Svetlana},
-    title     = {Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    author    = {Yash, Aditya and Rohit, Ashutosh and Vibha, Rohan },
+    title     = {Tryon of clothes using cnn: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing},
+    booktitle = {Proceedings of the IEEE/Robotics(ICCV) International Conference on Computer Vision (ICCV)},
     month     = {October},
-    year      = {2021},
+    year      = {2023},
     pages     = {14638-14647}
 }
 ```
