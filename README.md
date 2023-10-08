@@ -5,7 +5,7 @@ Robotics club project
 
 The official implementation of __"Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing."__ 
 by
-[Aditya](https://aditya-dom.github.io) And team.
+[Aditya](https://aditya-dom.github.io) and team.
 
  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WfeKTPtt3qtlcTlrX47J03mxUzbVvyrL?usp=sharing)
