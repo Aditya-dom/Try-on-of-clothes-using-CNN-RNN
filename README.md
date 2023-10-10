@@ -123,7 +123,7 @@ please always specific ```--frozen_flownet``` for inference.
 If you find this work is helpful, please consider starring :star2: this repo and citing us as
 ```
 @InProceedings{adi_2023_ICCV},
-    author    = {Yash, Aditya and Rohit, Ashutosh and Vibha, Rohan },
+    author    = { Aditya , codebot  }
     title     = {Tryon of clothes using cnn: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing},
     booktitle = {Proceedings of the IEEE/Robotics(ICCV) International Conference on Computer Vision (ICCV)},
     month     = {October},
