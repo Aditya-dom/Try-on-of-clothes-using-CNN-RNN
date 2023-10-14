@@ -16,7 +16,7 @@ by
 :bell: __Updates__
 - [2023/04] Offical Colab Demo is now available at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WfeKTPtt3qtlcTlrX47J03mxUzbVvyrL?usp=sharing). __Data downloading and environment installation are included.__
 - [2023/10] Please check our [latest version of paper](https://cuiaiyu.github.io/dressing-in-order/Cui_Dressing_in_Order.pdf) for the updated and clarified implementation details.      
-  - *__Clarification:__ the facial component was not added to the skin encoding as stated in the [our CVPR 2023 workshop paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_CVPRW_2021_paper.pdf) due to a minor typo. However, this doesn't affect our conclusions nor the comparison with the prior work, because it is an independent skin encoding design.*
+  - *__Clarification:__ the facial component was not added to the skin encoding as stated in the [our CVPR 2023 workshop paper](https://openaccess.thecvf.com/content/CPR2021W/CVFAD/papers/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_CVPRW_2021_paper.pdf) due to a minor typo. However, this doesn't affect our conclusions nor the comparison with the prior work, because it is an independent skin encoding design.*
 - [2023/10] To appear in [__ICCV 2023__](https://openaccess.thecvf.com/content/ICCV2021/html/Cui_Dressing_in_Order_Recurrent_Person_Image_Generation_for_Pose_Transfer_ICCV_2021_paper.html).
 - [2023/10] The best paper at [Computer Vision for Fashion, Art and Design](https://sites.google.com/zalando.de/cvfad2021/home) Workshop CVPR 2023.
 
