@@ -3,7 +3,7 @@
 # IET Robotics club
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dressing-in-order-recurrent-person-image/pose-transfer-on-deep-fashion)](https://paperswithcode.com/sota/pose-transfer-on-deep-fashion?p=dressing-in-order-recurrent-person-image)
 
-The official implementation of __"Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing."__ 
+The official implementation of __"Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing."__ 
 by
 [Aditya](https://aditya-dom.github.io),
 
@@ -122,7 +122,7 @@ If you find this work is helpful, please consider starring :star2: this repo and
 ```
 @InProceedings{Aditya_2023_Techfest,
     author    = {Aditya,Vineet},
-    title     = {Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing},
+    title     = {Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)<IITB Techfest>},
     month     = {October},
     year      = {2023},
