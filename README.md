@@ -123,11 +123,9 @@ If you find this work is helpful, please consider starring :star2: this repo and
 @InProceedings{Aditya_2023_Techfest,
     author    = {Aditya,Vineet},
     title     = {Recurrent Person Image Generation for Pose Transfer, Virtual Try-On and Outfit Editing},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)<IITB Techfest>},
     month     = {October},
     year      = {2023},
-    pages     = {14638-14647}
-}
+    }
 ```
 ## Acknowledgements
 This repository is built up on [GFLA](https://github.com/RenYurui/Global-Flow-Local-Attention),
